@@ -1,0 +1,2 @@
+Branching allows us to be able to work on a specific feature or experiment in a safe environment without affecting the stable version of the project. It enables a team to work on multiple different features at the same time without interfering with each other’s work immediately.
+It’s because our changes are isolated, it doesn’t break the main branch. Furthermore, it prevents unfinished work from getting mixed into the final product.
